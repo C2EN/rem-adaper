@@ -7,8 +7,6 @@
 
 * 只需要根据设计图修改psdWidth设计稿尺寸参数即可
 
-···
-
 ```javascript
 @charset "UTF-8";
 // 设备尺寸
@@ -33,8 +31,6 @@
 ```
 
 > 自动生产css适配方案
-
-···
 
 ```javascript
 @charset "UTF-8";
